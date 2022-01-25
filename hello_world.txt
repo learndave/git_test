@@ -1,0 +1,3 @@
+Hello, world!
+
+I am editing this file for an exercise in The Odin Project on how to use git. Wish me luck!
